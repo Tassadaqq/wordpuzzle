@@ -1,0 +1,7 @@
+The starting index of the word is 3 0
+The ending index of the word is 3 7
+Word not found
+The starting index of the word is 7 2
+The ending index of the word is 7 5
+The starting index of the word is 1 2
+The ending index of the word is 1 5
